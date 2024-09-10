@@ -82,6 +82,14 @@ p. 35-37
 
 **12 정보 시스템의 구조와 종류를 설명하시오.**
 정보 시스템은 조직의 활동에 필요한 데이터를 수집, 저장하고, 이를 가공하여 의사 결정에 필요한 정보를 제공하는 소프트웨어 체계입니다. 
+정보 시스템의 구조는 하드웨어, 소프트웨어, 데이터, 프로세스, 사람으로 구성되어 정보의 수집, 저장, 처리, 전달을 수행합니다.
+트랜잭션 처리 시스템 (Transaction Processing System, TPS)
+정보 관리 시스템 (Management Information System, MIS)
+의사결정 지원 시스템 (Decision Support System, DSS)
+전략적 정보 시스템 (Strategic Information System, SIS)
+지식 관리 시스템 (Knowledge Management System, KMS)
+기업 자원 관리 시스템 (Enterprise Resource Planning, ERP)
+고급 분석 시스템 (Advanced Analytics System)
 
 
 **13 파일 정보 시스템 방식과 비교할 때 데이터베이스 시스템 방식이 갖는 장점은 무엇인지 설명하시오.**
