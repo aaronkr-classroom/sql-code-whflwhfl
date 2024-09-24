@@ -46,7 +46,7 @@ SELECT
 FROM date_time_types;
 
 -- CAST 함수()
-	SELECT timestamp_col, CAST(timestamp_col AS varcahr(10))
+	SELECT timestamp_col, CAST(timestamp_col AS varchar(10))
 	FROM date_time_types;
 SELECT numeric_column,
 	CAST(numeric_column AS integer),
